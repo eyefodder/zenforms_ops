@@ -1,0 +1,6 @@
+# (c) 2014 Eyefodder, author: Paul Barnes-Hoggett
+# This code is licensed under MIT license (see LICENSE.txt for details)
+
+# @see http://www.ubuntuupdates.org/ppa/brightbox_ruby_ng_experimental
+ruby::params::main_package: 'ruby2.1'
+ruby::params::dev_package: 'ruby2.1-dev'

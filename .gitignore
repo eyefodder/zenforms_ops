@@ -32,3 +32,16 @@ build/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+
+# ignore devops stuff
+.vagrant/
+puppet/ssh/
+puppet/ssl/
+puppet/modules/apt/
+puppet/modules/concat/
+puppet/modules/firewall/
+puppet/modules/postgresql/
+puppet/modules/ruby/
+puppet/modules/stdlib/
+
+dotfiles/guest_bash_profile
