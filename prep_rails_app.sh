@@ -58,11 +58,11 @@ $$    jump into the virtual machine and start the app:                        $$
 $$                                                                            $$
 $$                            vagrant ssh                                     $$
 $$                            cd /app                                         $$
-$$                            rails s                                         $$
+$$                            foreman start                                   $$
 $$                                                                            $$
 $$    When you have done that, the app will be accessible at                  $$
 $$                                                                            $$
-$$                            http://localhost:3001                           $$
+$$                            http://localhost:3000                           $$
 $$                                                                            $$
 $$      See! that was easy wasnt it?!!                                        $$
 $$                                                                            $$
